@@ -20,8 +20,8 @@ Olá, Eu sou o Andre!
   <img align="center" alt="Andre-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Andre-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
  <img align="center" alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> 
-  <img align="center" alt="GitHub" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
-     <img align="center" alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> 
+  <img align="center" alt="GitHub" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" color="white"/>
+    
 </div>
   
 ##
