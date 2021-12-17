@@ -1,10 +1,9 @@
-Olá! Eu sou o Andre! 
+Olá, Eu sou o Andre! 
 
-Here are some ideas to get you started:
-
+- 👨🏾‍🎓 FullStack Java Jr.
 - 🔭 Procurando uma oportunidade para recolocação no mercado.
 - 🌱 Estudando Java 
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/Dehzxg">
